@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vyom Devgan</h1>
-<h3 align="center">Versatile coder, profiein Python, C#, and HTML, building innovative projects with a focus on machine learning and game development, aspiring to elevate software engineering excellence.</h3>
+<h1 align="center">Vyom Devgan</h1>
+<h3 align="center">Versatile coder, proficient in Python, C#, and HTML, building innovative projects with a focus on machine learning and game development, aspiring to elevate software engineering excellence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyom-devgan&label=Profile%20views&color=0e75b6&style=flat" alt="vyom-devgan" /> </p>
 
