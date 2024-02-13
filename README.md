@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vyom Devgan</h1>
-<h3 align="center">Versatile coder, adept in Python, C#, and HTML, building innovative projects with a focus on machine learning and game development, aspiring to elevate software engineering excellence.</h3>
+<h3 align="center">Versatile coder, profiein Python, C#, and HTML, building innovative projects with a focus on machine learning and game development, aspiring to elevate software engineering excellence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyom-devgan&label=Profile%20views&color=0e75b6&style=flat" alt="vyom-devgan" /> </p>
 
@@ -37,9 +37,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vyomdevgan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vyomdevgan" /></a><a href="https://ko-fi.com/vyomdevgan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vyomdevgan" /></a></p><br><br>
-</br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyom-devgan&show_icons=true&locale=en&layout=compact" alt="vyom-devgan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vyom-devgan&show_icons=true&locale=en" alt="vyom-devgan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vyom-devgan&theme=dark" alt="vyom-devgan" /></p>
