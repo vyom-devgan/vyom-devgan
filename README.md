@@ -1,5 +1,5 @@
 <h1 align="center">Vyom Devgan</h1>
-<h3 align="center">Versatile coder, proficient in Python, C#, and HTML, building innovative projects with a focus on machine learning and game development, aspiring to elevate software engineering excellence.</h3>
+<h3 align="center">Versatile coder, proficient in Python & Data Science, building innovative projects with a focus on machine learning and game development, aspiring to elevate software engineering excellence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyom-devgan&label=Profile%20views&color=0e75b6&style=flat" alt="vyom-devgan" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [A Math Game](https://github.com/vyom-devgan/IntelliHunt-The-Operand-Odyssey)
 
-- 🌱 I’m currently learning **JavaSctipt, C++ & Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vyom-devgan](https://github.com/vyom-devgan)
 
